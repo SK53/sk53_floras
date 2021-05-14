@@ -1,123 +1,138 @@
-# Flowers of Wollaton Hall Drive**
+# Flowers of Wollaton Hall Drive
+
+This is a listing of all higher plants I have seen on Wollaton Hall Drive since about 2004. The area includes St Mary's Churchyard, the roadway, verges and grassy areas adjacent to Middleton Boulevard, garden walls (including the garden face), the nearer grounds of Lenton Lodge, the bit of Derby Road bank which faces on to WHD.
+
+A quick idea of locations is given by code-letters for the main ones:
+
+* **G**: found in gardens (this is mainly an indication of eihter ubqiquity or likelihood of something being a garden escape)
+* **C**: the churchyard
+* **V**: verges
+* **U**: urban commons, here the two larger stretches of grass at the Middleton Boulevard end
+* **R**: growing on root plates of Beech trees (or their stumps)
+* **L**: grounds of Lenton Lodge
+* **D**: Derby Road banks
+* **P**: road gutters, pavement cracks, foot of garden walls etc (basically the annual weed flora)
 
 ## Ferns
-Bracken
-Hart’s-tongue
-Maidenhair Spleenwort
-Wall-rue
-Polypody
-Male Fern
-# conifers
-Yew
-Norway Spruce
-Western Hemlock
+* Bracken G An exception to the rule as this is present only in a garden. A patch of Bracken can be seen close to the gate of Middleton House. This is of interest because Bracken would have probably been a major component of the natural vegetation here (akin to the roughs in Wollaton Park Golf Course)
+* Hart’s-tongue WG
+* Maidenhair Spleenwort W
+* Wall-rue W
+* Polypody W
+* Male Fern WG
+# Conifers
+* Yew CLG
+* Norway Spruce L
+* Western Hemlock C
 # Buttercups
-Bulbous Buttercup
-Creeping Buttercup
-Meadow Buttercup
-Lesser Celandine
-Winter Aconite
+* Bulbous Buttercup CVG
+* Creeping Buttercup VG
+* Meadow Buttercup VG
+* Lesser Celandine CVG
+* Winter Aconite VG
 # Pinks
-Common Chickweed
-Lesser Chickweed
-Sticky Mouseear
-Common Mouse-ear
-White Campion
+* Common Chickweed CVRG
+* Lesser Chickweed RP
+* Sticky Mouseear VP
+* Common Mouse-ear WCVG
+* White Campion V Single plant outside 20
 # Crucifers
-Thale Cress
-Shepherd’s Purse
-Wavy Bitter-cress
-Hairy Bitter-cress
-Cuckoo Flower
-Common Whitlow-grass
+* Thale Cress
+* Shepherd’s Purse
+* Wavy Bitter-cress
+* Hairy Bitter-cress
+* Cuckoo Flower
+* Common Whitlow-grass
 # Roses
-Hawthorn
-Midland Hawthorn
-Dog Rose
-Herb Robert
+* Hawthorn
+* Midland Hawthorn
+* Dog Rose
+* Herb Robert
 # Peas
-Common Vetch
-Black Medick
-White Clover
-Lesser Trefoil
-Bird’s-foot Trefoil
-Laburnum
-False Acacia
+* Common Vetch
+* Black Medick
+* White Clover
+* Lesser Trefoil
+* Bird’s-foot Trefoil
+* Laburnum
+* False Acacia CVG best seen just inside the churchyard. Suckers from this tree have appeared in the verge in the past. There are a couple of very large trees pushing the garden wall of #48 outwards.
 # Crane's-bills
-Dove’s-foot Crane’s-bill
-Small-flowered Crane’s-bill
-Hedgerow Crane’s-bill
-Common Stork’s-bill
+* Dove’s-foot Crane’s-bill
+* Small-flowered Crane’s-bill
+* Hedgerow Crane’s-bill
+* Common Stork’s-bill
 # Bedstraws
-Cleavers
-Hedge Bedstraw
-#Plantains
-Ribwort Plantain
-Buck’s-horn Plantain
-#Daisies
-Daisy
-Dandelion
-Hawkweed
-Perennial Sow-thistle
-Smooth Sow-thistle
-Prickly Sow-thistle
-Perennial Cornflower
-Creeping Thistle
-Spear Thistle
-Canadian Goldenrod
-Canadian Fleabane
-Guernsey Fleabane
-Ragwort
-Groundsel
-Oxford Ragwort
-Oxeye Daisy
-Feverfew
-Colt’s-foot
-Cock’s-foot
-Small Timothy
-Meadow Oat-grass
-Sterile Brome
-Annual Meadow-grass
-Yorkshire Fog
-Wall Barley
-Bread Wheat
-Field Wood-rush
+* Cleavers
+* Hedge Bedstraw
+# Plantains
+* Ribwort Plantain
+* Buck’s-horn Plantain
+# Daisies
+* Daisy
+* Dandelion
+* Rough-leved Hawkweed V A patch of several plants on the edge of the verge at #17.
+* Perennial Sow-thistle V A single plant in 2020 outside Middleton House
+* Smooth Sow-thistle
+* Prickly Sow-thistle
+* Perennial Cornflower
+* Creeping Thistle V Currently a sizeable patch outside #20 in the verge
+* Spear Thistle V The occassional rosette
+* Canadian Goldenrod
+* Canadian Fleabane
+* Guernsey Fleabane
+* Ragwort
+* Groundsel
+* Oxford Ragwort
+* Oxeye Daisy
+* Feverfew
+* Colt’s-foot
+# Grasses
+* Cock’s-foot
+* Small Timothy
+* Meadow Oat-grass
+* Sterile Brome
+* Annual Meadow-grass
+* Yorkshire Fog
+* Wall Barley
+* Bread Wheat
+* Red Fescue
+* Perennial Rye-grass
+* Squirrel-tail Fescue
+* False-oat Grass
+* Common Bent
+* Soft-brome
+# Rushes
+* Field Wood-rush CV
 # Primroses
-Primrose
-Cowslip
-Polyanthus
-Sowbread
+* Primrose
+* Cowslip
+* Polyanthus
+* Sowbread
 # Speedwells
-Willow-leaved Hebe
-Wall Speedwell
-Pink-flowered Ivy-leaved Speedwell
-Common Field Speedwell
-Grey Field Speedwell
+* Willow-leaved Hebe
+* Wall Speedwell
+* Pink-flowered Ivy-leaved Speedwell
+* Common Field Speedwell
+* Grey Field Speedwell
 # Bellflowers
-Peach-leaved Bellflower
+* Peach-leaved Bellflower
 # Violets
-Sweet Violet
-Early Dog-violet
-Common Dog-violet
-Wild Pansy
-Beech
-Silver Birch
-Hornbeam
-Mind-your-own-Business
+* Sweet Violet
+* Early Dog-violet
+* Common Dog-violet
+* Wild Pansy
+* Beech
+* Silver Birch
+* Hornbeam
+* Mind-your-own-Business
 # Sorrels
-Pink Sorrel
-Least Sorrel
-Common Sorrel
-Broad-leaved Dock
-Knot-grass
+* Pink Sorrel
+* Least Sorrel
+# Docks
+* Common Sorrel
+* Broad-leaved Dock
+* Knot-grass
 
-Narrow-leaved Pepperwort
-
-Red Dead-nettle
-
-Russel Lupin
-Common Mallow
-Hollyhock
 
 # Bulbs & Other Monocots
 Lords-and-Ladies
@@ -130,116 +145,143 @@ Grape Hyacinth
 Daffodil
 
 # Not categorised
-Spring Beauty
+* Narrow-leaved Pepperwort
 
-Glory-of-the-Snow
-Boissier’s Glory-of-the-Snow
+* Red Dead-nettle
 
-Montbretia
+* Russel Lupin V Rosette outside #35, May 2021
+* Common Mallow
+* Hollyhock
 
-Common Lime
-Caucasian Lime
-Large-leaved Lime
+* Spring Beauty
 
-Cherryplum
-Cherry-laurel
-Spotted Laurel
+* Narrow-leaved Pepperwort
 
-Forsythia
+* Glory-of-the-Snow
+* Boissier’s Glory-of-the-Snow
 
-Box
+* Montbretia
 
-Garden Privet
+* Common Lime
+* Caucasian Lime
+* Large-leaved Lime
 
-Garden Candytuft
+* Cherryplum
+* Cherry-laurel
+* Spotted Laurel
 
-Pineappleweed
+* Forsythia
 
-Ornamental Cherry
+* Box
 
-Lesser Periwinkle
+* Garden Privet
 
-Ground Elder
-Cow-parsley
+* Garden Candytuft V A single plant outside Middleton House around 2005
 
-Pendulous Sedge
+* Pineappleweed P
 
-Wall Lettuce
-Smooth Hawk’s-beard
+* Japanese Cherry
 
-White Stonecrop
+* Lesser Periwinkle
 
-Hedge Mustard
+* Ground Elder
+* Cow-parsley
 
-Starflower
+* Pendulous Sedge
 
-Rose-of-Saron
+* Wall Lettuce
+* Smooth Hawk’s-beard
 
-Opium Poppy
-Common Poppy
+* White Stonecrop R
 
-Rue-leaved Saxifrage
+* Hedge Mustard L
 
-Nipplewort
+* Starflower V Single plant in verge adjacent to driveway of #48, April 2020. A more robust plant has been seen since 2018 at the Sutton Passeys pedestrian crossing of Middleton Boulevard.
 
-Elder
+* Rose-of-Sharon CG
 
-Ivy
-Holly
+* Opium Poppy
+* Common Poppy
 
-Norway Maple
+* Rue-leaved Saxifrage WL
 
-Woody Night shade
+* Nipplewort
 
-Green Alkanet
-Buddleia
-Great Willowherb
-Broad-leaved Willowherb
-White Bryony
-Red Valerian
-Sweet Vernal Grass
-Dotted Loosestrife
-Oregon Grape
-Hybrid Bluebell
-Japanese Anemone
-Stinking Hellebore
-Bramble
-Teasel
-Sweet Chestnut
-Petty Spurge
-Lily-of-the-Valley
-Wild Strawberry
-Flowering Currant
-Wild Cherry
-Japanese Cherry
-Yarrow
-Wall Cotoneaster
-Franchet’s Cotoneaster
-Wood Forget-me-not
-Yellow Rattle
-Trailing Bellflower
-Fox-and-Cubs
-Mouse-ear Hawkweed
-Red Fescue
-Perennial Rye-grass
-Squirrel-tail Fescue
-False-oat Grass
-Common Bent
-Soft-brome
+* Elder LG
 
-Garden Plants
-Aspen
-Black Nightshade
-Enchanter's Nightshade
-Hazel
-Pedunculate Oak
-Red Clover
-Shining Crane's-bill
-Druce's Crane's-bill
-Bugle
-White Dead-nettle
-Betony
-Devil's Bit-scabious
-Stinking Tutsan
-Bloody Crane's-bill
-Thyme-leaved Speedwell
+* Ivy
+* Holly
+
+* Norway Maple CVUG
+
+* Woody Nightshade
+
+* Green Alkanet
+* Buddleia
+* Great Willowherb
+* Broad-leaved Willowherb
+* White Bryony
+* Red Valerian
+* Sweet Vernal Grass
+* Dotted Loosestrife
+* Oregon Grape
+* Hybrid Bluebell
+* Japanese Anemone
+* Stinking Hellebore
+* Bramble
+* Teasel
+* Sweet Chestnut
+* Petty Spurge
+* Lily-of-the-Valley
+* Wild Strawberry
+* Flowering Currant
+* Wild Cherry
+* Yarrow
+* Wall Cotoneaster
+* Franchet’s Cotoneaster DL (provisional identification)
+* Wood Forget-me-not
+* Yellow Rattle VG A single plant in 2019, seedlings in 2020 on the verge outside #42 which didn't survive having things dumped on the verge by workmen.
+* Trailing Bellflower
+* Fox-and-Cubs CR Seen in the lawns of the churchyard if allowed to flower, also seen outside #28.
+* Mouse-ear Hawkweed
+* Turkey Oak DC
+* Stinking Iris CG 
+
+# Garden Plants (of natural origin)
+
+Not otherwise known on the public areas of the street. Many of these may be either overlooked or potential colonisers of the road & verges
+
+* Aspen
+* Black Nightshade
+* Enchanter's Nightshade
+* Hazel
+* Pedunculate Oak
+* Red Clover
+* Shining Crane's-bill
+* Druce's Crane's-bill
+* Bugle
+* White Dead-nettle
+* Betony
+* Devil's Bit-scabious
+* Stinking Tutsan
+* Bloody Crane's-bill
+* Thyme-leaved Speedwell
+* Remote Sedge
+* Common Couch
+* Honesty
+* Sycamore
+* Common Nettle
+
+# Close-by
+
+Plants which are growing in the wild close by, and which might be candidates to appear.
+* Foxglove Derby Road Banks
+* Lungwort Derby Road Banks
+* Siberian Squill Derby Road Banks
+* Shining Crane's Bill Middleton Boulevard
+* Danish Scurvy-grass Middleton Boulevard
+* Garden Star-of-Bethlehem Middleton Boulevard
+* Garden Asparagus Derby Road Banks
+* Pellitory-of-the-Wall Outside 14 Middleton Boulevard, Lenton Lodge
+* Argentine Vervain
+* 
