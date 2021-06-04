@@ -43,6 +43,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Hairy Bitter-cress
 * Cuckoo Flower
 * Common Whitlow-grass
+* Narrow-leaved Pepperwort
 # Roses
 * Hawthorn
 * Midland Hawthorn
@@ -56,11 +57,12 @@ A quick idea of locations is given by code-letters for the main ones:
 * Bird’s-foot Trefoil
 * Laburnum
 * False Acacia CVG best seen just inside the churchyard. Suckers from this tree have appeared in the verge in the past. There are a couple of very large trees pushing the garden wall of #48 outwards.
+* Broad-leaved Everlasting-pea VG outside 26.
 # Crane's-bills
 * Dove’s-foot Crane’s-bill
 * Small-flowered Crane’s-bill
 * Hedgerow Crane’s-bill
-* Common Stork’s-bill
+* Common Stork’s-bill R A single plant 2020 outside 20
 # Bedstraws
 * Cleavers
 * Hedge Bedstraw
@@ -135,27 +137,24 @@ A quick idea of locations is given by code-letters for the main ones:
 
 
 # Bulbs & Other Monocots
-Lords-and-Ladies
-Three-cornered Leek
-Snowdrop
-Fritillary
-Spring Crocus
-Early Crocus
-Grape Hyacinth
-Daffodil
+* Lords-and-Ladies
+* Three-cornered Leek
+* Snowdrop
+* Fox-grape Fritillary V Planted outside #23
+* Spring Crocus
+* Early Crocus
+* Garden Grape Hyacinth
+* Daffodil
 
 # Not categorised
-* Narrow-leaved Pepperwort
 
 * Red Dead-nettle
 
-* Russel Lupin V Rosette outside #35, May 2021
+* Russell Lupin V Rosette outside #35, May 2021
 * Common Mallow
 * Hollyhock
 
 * Spring Beauty
-
-* Narrow-leaved Pepperwort
 
 * Glory-of-the-Snow
 * Boissier’s Glory-of-the-Snow
@@ -199,6 +198,7 @@ Daffodil
 * Starflower V Single plant in verge adjacent to driveway of #48, April 2020. A more robust plant has been seen since 2018 at the Sutton Passeys pedestrian crossing of Middleton Boulevard.
 
 * Rose-of-Sharon CG
+* Perforate St-John's-wort C Single plant growing in bed in front of church hall.
 
 * Opium Poppy
 * Common Poppy
@@ -219,22 +219,22 @@ Daffodil
 * Green Alkanet
 * Buddleia
 * Great Willowherb
-* Broad-leaved Willowherb
-* White Bryony
-* Red Valerian
-* Sweet Vernal Grass
+* Broad-leaved Willowherb CV
+* White Bryony C Used to be a plant growing under the conifers at the foot of the vicarage garden. Seems to have gone.
+* Red Valerian CWR
+* Sweet Vernal Grass CV Very common in churchyard lawns. Also present in verges near the church. One of the earliest flowering taller grasses and fairly distinctive. Often responsible for the smell of new-mown hay because it is rich in coumarin.
 * Dotted Loosestrife
 * Oregon Grape
 * Hybrid Bluebell
 * Japanese Anemone
-* Stinking Hellebore
-* Bramble
-* Teasel
-* Sweet Chestnut
+* Stinking Hellebore CG Behind the church hall. The odd come-by-chance in gardens.
+* Bramble C
+* Teasel C
+* Sweet Chestnut VG
 * Petty Spurge
-* Lily-of-the-Valley
+* Lily-of-the-Valley CG A popular garden plant, persisting for many years in the right conditions. Growing in bed and between wall coping stones in front of church hall.
 * Wild Strawberry
-* Flowering Currant
+* Flowering Currant CG
 * Wild Cherry
 * Yarrow
 * Wall Cotoneaster
@@ -271,6 +271,7 @@ Not otherwise known on the public areas of the street. Many of these may be eith
 * Honesty
 * Sycamore
 * Common Nettle
+* Autumn Hawkbit
 
 # Close-by
 
@@ -284,5 +285,5 @@ Plants which are growing in the wild close by, and which might be candidates to 
 * Garden Asparagus Derby Road Banks  
 ![Garden Asparagus](https://inaturalist-open-data.s3.amazonaws.com/photos/127490326/small.jpeg?1620498022)
 * Pellitory-of-the-Wall Outside 14 Middleton Boulevard, Lenton Lodge
-* Argentine Vervain
+* Argentine Vervain planted in beds outside Lenton Lodge but self-seeding beyond them.
 
