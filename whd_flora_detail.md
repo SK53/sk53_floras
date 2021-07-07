@@ -31,12 +31,13 @@ A quick idea of locations is given by code-letters for the main ones:
 * Meadow Buttercup VG
 * Lesser Celandine CVG
 * Winter Aconite VG
-# Pinks (5)
+# Pinks (6)
 * Common Chickweed CVRG
 * Lesser Chickweed RP
 * Sticky Mouseear VP
 * Common Mouse-ear WCVG
 * White Campion V Single plant outside 20
+* Rose Campion V Single plant on tree root plate outside 35 (2021).
 # Crucifers (7)
 * Thale Cress
 * Shepherd’s Purse
@@ -63,7 +64,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Dove’s-foot Crane’s-bill
 * Small-flowered Crane’s-bill
 * Hedgerow Crane’s-bill
-* Common Stork’s-bill R A single plant 2020 outside 20
+* Common Stork’s-bill RW A single plant 2020 outside 20. One growing outside 18 on the pavement (2021)
 # Bedstraws
 * Cleavers
 * Hedge Bedstraw
@@ -78,9 +79,11 @@ A quick idea of locations is given by code-letters for the main ones:
 * Smooth Sow-thistle
 * Prickly Sow-thistle
 * Perennial Cornflower
-* Creeping Thistle V Currently a sizeable patch outside #20 in the verge
+* Creeping Thistle V Currently (2021) a sizeable patch outside #20 in the verge
 * Spear Thistle V The occassional rosette
 * Canadian Goldenrod
+* Smooth Hawk's-beard VL  Crepis capillaris. 
+* Nipplewort
 * Canadian Fleabane
 * Guernsey Fleabane
 * Ragwort
@@ -90,6 +93,8 @@ A quick idea of locations is given by code-letters for the main ones:
 * Feverfew
 * Colt’s-foot
 * Goatsbeard L A single plant under the yew 2021. Mown.
+* Rough Hawkbit U A single plant at the apex of the S grassy area at the W end of the street (adjacent 37). This is another Dandelion-lookalike but the flower head & stalk are hairy. 
+* Wall Lettuce VGL A slightly deceptive composite flower as typically it looks to have 5 petals, but these are, in fact, individual florets. The small flowers and deeply branched infloresences make this a fairly inconspicuous plant even though it's typically around 3ft high. Usually on Beech root plates on the N side of the road. Also in Lenton Lodge from time to time.
 # Grasses
 * Cock’s-foot
 * Small Timothy
@@ -120,6 +125,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Grey Field Speedwell
 # Bellflowers
 * Peach-leaved Bellflower
+* Trailing Bellflower CGW A plant growing on the wall of 52. Elsewhere very common in gardens and outside the Church Hall.
 # Violets
 * Sweet Violet
 * Early Dog-violet
@@ -190,9 +196,6 @@ A quick idea of locations is given by code-letters for the main ones:
 
 * Pendulous Sedge
 
-* Wall Lettuce
-* Smooth Hawk’s-beard
-
 * White Stonecrop R
 
 * Hedge Mustard L
@@ -206,8 +209,6 @@ A quick idea of locations is given by code-letters for the main ones:
 * Common Poppy
 
 * Rue-leaved Saxifrage WL
-
-* Nipplewort
 
 * Elder LG
 
