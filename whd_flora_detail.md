@@ -13,30 +13,31 @@ A quick idea of locations is given by code-letters for the main ones:
 * **D**: Derby Road banks
 * **P**: road gutters, pavement cracks, foot of garden walls etc (basically the annual weed flora)
 
-## Ferns
+## Ferns (5)
 * Bracken G An exception to the rule as this is present only in a garden. A patch of Bracken can be seen close to the gate of Middleton House. This is of interest because Bracken would have probably been a major component of the natural vegetation here (akin to the roughs in Wollaton Park Golf Course)
 * Hart’s-tongue WG
 * Maidenhair Spleenwort W
 * Wall-rue W
 * Polypody W
 * Male Fern WG
-# Conifers
+# Conifers (4)
 * Yew CLG
 * Norway Spruce L
 * Western Hemlock C
-# Buttercups
+* Lawson's Cypress CP
+# Buttercups (5)
 * Bulbous Buttercup CVG
 * Creeping Buttercup VG
 * Meadow Buttercup VG
 * Lesser Celandine CVG
 * Winter Aconite VG
-# Pinks
+# Pinks (5)
 * Common Chickweed CVRG
 * Lesser Chickweed RP
 * Sticky Mouseear VP
 * Common Mouse-ear WCVG
 * White Campion V Single plant outside 20
-# Crucifers
+# Crucifers (7)
 * Thale Cress
 * Shepherd’s Purse
 * Wavy Bitter-cress
@@ -44,12 +45,12 @@ A quick idea of locations is given by code-letters for the main ones:
 * Cuckoo Flower
 * Common Whitlow-grass
 * Narrow-leaved Pepperwort
-# Roses
+# Roses (4)
 * Hawthorn
 * Midland Hawthorn
 * Dog Rose
 * Herb Robert
-# Peas
+# Peas (8)
 * Common Vetch
 * Black Medick
 * White Clover
@@ -88,6 +89,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Oxeye Daisy
 * Feverfew
 * Colt’s-foot
+* Goatsbeard L A single plant under the yew 2021. Mown.
 # Grasses
 * Cock’s-foot
 * Small Timothy
@@ -200,7 +202,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Rose-of-Sharon CG
 * Perforate St-John's-wort C Single plant growing in bed in front of church hall.
 
-* Opium Poppy
+* Opium Poppy P Single plants outside 20 (2020) and by fence of Lenton Lodge (2021.
 * Common Poppy
 
 * Rue-leaved Saxifrage WL
@@ -223,24 +225,24 @@ A quick idea of locations is given by code-letters for the main ones:
 * White Bryony C Used to be a plant growing under the conifers at the foot of the vicarage garden. Seems to have gone.
 * Red Valerian CWR
 * Sweet Vernal Grass CV Very common in churchyard lawns. Also present in verges near the church. One of the earliest flowering taller grasses and fairly distinctive. Often responsible for the smell of new-mown hay because it is rich in coumarin.
-* Dotted Loosestrife
-* Oregon Grape
-* Hybrid Bluebell
-* Japanese Anemone
+* Dotted Loosestrife CG 
+* Oregon Grape CG
+* Hybrid Bluebell CGV
+* Japanese Anemone PG A common plant in gardens, with some spread by seed. A few leaves emerging on the pavement side outside 40
 * Stinking Hellebore CG Behind the church hall. The odd come-by-chance in gardens.
 * Bramble C
 * Teasel C
 * Sweet Chestnut VG
 * Petty Spurge
 * Lily-of-the-Valley CG A popular garden plant, persisting for many years in the right conditions. Growing in bed and between wall coping stones in front of church hall.
-* Wild Strawberry
+* Wild Strawberry CV
 * Flowering Currant CG
 * Wild Cherry
 * Yarrow
 * Wall Cotoneaster
 * Franchet’s Cotoneaster DL (provisional identification)
 * Wood Forget-me-not
-* Yellow Rattle VG A single plant in 2019, seedlings in 2020 on the verge outside #42 which didn't survive having things dumped on the verge by workmen.
+* Yellow Rattle VG A single plant in 2019, seedlings in 2020 on the verge outside #42 which didn't survive having things dumped on the verge by workmen. A single plant mown down in 2021.
 * Trailing Bellflower
 * Fox-and-Cubs CR Seen in the lawns of the churchyard if allowed to flower, also seen outside #28.
 * Mouse-ear Hawkweed
@@ -285,5 +287,5 @@ Plants which are growing in the wild close by, and which might be candidates to 
 * Garden Asparagus Derby Road Banks  
 ![Garden Asparagus](https://inaturalist-open-data.s3.amazonaws.com/photos/127490326/small.jpeg?1620498022)
 * Pellitory-of-the-Wall Outside 14 Middleton Boulevard, Lenton Lodge
-* Argentine Vervain planted in beds outside Lenton Lodge but self-seeding beyond them.
+* Argentine Vervain planted in beds outside Lenton Lodge but self-seeding beyond them. 
 
