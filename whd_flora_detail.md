@@ -4,7 +4,7 @@ This is a listing of all higher plants I have seen on Wollaton Hall Drive since 
 
 A quick idea of locations is given by code-letters for the main ones:
 
-* **G**: found in gardens (this is mainly an indication of eihter ubqiquity or likelihood of something being a garden escape)
+* **G**: found in gardens (this is mainly an indication of either ubqiquity or likelihood of something being a garden escape)
 * **C**: the churchyard
 * **V**: verges
 * **U**: urban commons, here the two larger stretches of grass at the Middleton Boulevard end
@@ -89,6 +89,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Ragwort
 * Groundsel
 * Oxford Ragwort
+* Sticky Groundsel P A single plant to R of gate in fence of Lenton Lodge. A fairly common plant of pavement edges, especially along Lenton Lane. Rayed-flowers, unlike groundsel, but smaller than other Ragworts. Usually can be told by it's stickyness, or slightly dirty appearance (caused by things sticking to the glandular sticky hairs).
 * Oxeye Daisy
 * Feverfew
 * Colt’s-foot
