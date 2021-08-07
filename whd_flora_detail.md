@@ -250,6 +250,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Mouse-ear Hawkweed
 * Turkey Oak DC
 * Stinking Iris CG 
+* Pedunculate Oak CG Very small sapling in churchyard (Aug 7 2021), mature tree (planted ~ 1966) & saplings in at least one garden.
 
 # Garden Plants (of natural origin)
 
