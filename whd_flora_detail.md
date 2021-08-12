@@ -38,27 +38,27 @@ A quick idea of locations is given by code-letters for the main ones:
 * Common Mouse-ear WCVG
 * White Campion V Single plant outside 20
 * Rose Campion V Single plant on tree root plate outside 35 (2021).
-# Crucifers (7)
-* Thale Cress
-* Shepherd’s Purse
-* Wavy Bitter-cress
-* Hairy Bitter-cress
-* Cuckoo Flower
-* Common Whitlow-grass
-* Narrow-leaved Pepperwort
-# Roses (4)
-* Hawthorn
-* Midland Hawthorn
+# Crucifers : Brassicaceae (7)
+* Thale Cress W
+* Shepherd’s Purse UWV
+* Wavy Bitter-cress W
+* Hairy Bitter-cress WV
+* Cuckoo Flower CVG
+* Common Whitlow-grass CVR Present on many verges, but does particularly well on the stump outside #17. A few plants on the asphalt at top of the steps leading to the Church Hall (2021)
+* Narrow-leaved Pepperwort P Restricted to road gutters around junction of Derby Road. This is a salt tolerant plant so only grows on roads which are gritted in winter.
+# Roses : Rosaceae (4)
+* Hawthorn DCG
+* Midland Hawthorn 'Paul's Scarlet' : actually the hybrid between C. monogyna & C. oxycantha.
 * Dog Rose
-* Herb Robert
-# Peas (8)
+* Herb Robert WCG
+# Peas : Fabaceae (8)
 * Common Vetch
-* Black Medick
+* Black Medick V
 * White Clover
 * Lesser Trefoil
-* Bird’s-foot Trefoil
-* Laburnum
-* False Acacia CVG best seen just inside the churchyard. Suckers from this tree have appeared in the verge in the past. There are a couple of very large trees pushing the garden wall of #48 outwards.
+* Bird’s-foot Trefoil CV
+* Laburnum CP
+* False Acacia CVG best seen just inside the churchyard. Suckers from this tree have appeared in the verge in the past. There are a couple of very large trees pushing the garden wall of #48 outwards, which also sometimes sucker in the verge.
 * Broad-leaved Everlasting-pea VG outside 26.
 # Crane's-bills
 * Dove’s-foot Crane’s-bill
@@ -117,7 +117,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Primrose
 * Cowslip
 * Polyanthus
-* Sowbread
+* Sowbread CV Quite a lot in the churchyard in lawns on S side of church (probably planted), a lot self-seeded in the immediate area. One rosette in verge outside #30. On the Derby Road banks this has burgeoned from a few plants to in excess of 100 over the last 15 years.
 # Speedwells
 * Willow-leaved Hebe
 * Wall Speedwell
@@ -251,6 +251,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Turkey Oak DC
 * Stinking Iris CG 
 * Pedunculate Oak CG Very small sapling in churchyard (Aug 7 2021), mature tree (planted ~ 1966) & saplings in at least one garden.
+* Rhus typhina C (plant near, the unused, garden gate of Vicarage)
 
 # Garden Plants (of natural origin)
 
@@ -277,6 +278,7 @@ Not otherwise known on the public areas of the street. Many of these may be eith
 * Sycamore
 * Common Nettle
 * Autumn Hawkbit
+* False Fox Sedge: side path of #42 in 2021
 
 # Close-by
 
