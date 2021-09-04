@@ -19,7 +19,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Maidenhair Spleenwort W
 * Wall-rue W
 * Polypody W
-* Male Fern WG
+* Male Fern WGC
 # Conifers (4)
 * Yew CLG
 * Norway Spruce L
@@ -51,6 +51,10 @@ A quick idea of locations is given by code-letters for the main ones:
 * Midland Hawthorn 'Paul's Scarlet' : actually the hybrid between C. monogyna & C. oxycantha.
 * Dog Rose
 * Herb Robert WCG
+* Bramble CLVG Epiphyte on one or two Beech trees as well.
+* Wild Strawberry CG 
+* Cherryplum LCG
+* Cherry-laurel LCG
 # Peas : Fabaceae (8)
 * Common Vetch
 * Black Medick V
@@ -82,7 +86,8 @@ A quick idea of locations is given by code-letters for the main ones:
 * Creeping Thistle V Currently (2021) a sizeable patch outside #20 in the verge
 * Spear Thistle V The occassional rosette
 * Canadian Goldenrod
-* Smooth Hawk's-beard VL  Crepis capillaris. 
+* Smooth Hawk's-beard VL  Crepis capillaris.
+* Autumn Hawbit. VG Probably commoner than given here. The latest flowering of the dandelion plants. Easiest to separate when in fruit. The clock is brownish, and each hair on the seed is branched. 
 * Nipplewort
 * Canadian Fleabane
 * Guernsey Fleabane
@@ -91,8 +96,8 @@ A quick idea of locations is given by code-letters for the main ones:
 * Oxford Ragwort
 * Sticky Groundsel P A single plant to R of gate in fence of Lenton Lodge. A fairly common plant of pavement edges, especially along Lenton Lane. Rayed-flowers, unlike groundsel, but smaller than other Ragworts. Usually can be told by it's stickyness, or slightly dirty appearance (caused by things sticking to the glandular sticky hairs).
 * Oxeye Daisy
-* Feverfew
-* Colt’s-foot
+* Feverfew RG The quintessential plant of the root plates. Apparently largely growing as a annual or biennial.
+* Colt’s-foot C
 * Goatsbeard L A single plant under the yew 2021. Mown.
 * Rough Hawkbit U A single plant at the apex of the S grassy area at the W end of the street (adjacent 37). This is another Dandelion-lookalike but the flower head & stalk are hairy. 
 * Wall Lettuce VGL A slightly deceptive composite flower as typically it looks to have 5 petals, but these are, in fact, individual florets. The small flowers and deeply branched infloresences make this a fairly inconspicuous plant even though it's typically around 3ft high. Usually on Beech root plates on the N side of the road. Also in Lenton Lodge from time to time.
@@ -118,6 +123,9 @@ A quick idea of locations is given by code-letters for the main ones:
 * Cowslip
 * Polyanthus
 * Sowbread CV Quite a lot in the churchyard in lawns on S side of church (probably planted), a lot self-seeded in the immediate area. One rosette in verge outside #30. On the Derby Road banks this has burgeoned from a few plants to in excess of 100 over the last 15 years.
+# Mints
+* Red Dead-nettle CPG
+* White Dead-nettle VG
 # Speedwells
 * Willow-leaved Hebe
 * Wall Speedwell
@@ -132,10 +140,17 @@ A quick idea of locations is given by code-letters for the main ones:
 * Early Dog-violet
 * Common Dog-violet
 * Wild Pansy
-* Beech
-* Silver Birch
+# Beech & Oaks
+* Beech CVUG
+* Turkey Oak CD
+* Pedunculate Oak CG Very small sapling in churchyard (Aug 7 2021), mature tree (planted ~ 1966) & saplings in at least one garden.
+# Birches & Alders
+* Silver Birch LUCGV
+* Italian Alder L
 * Hornbeam
-* Mind-your-own-Business
+* Hazel CG A small sapling in the churchyard, more mature plants in several gardens. Many squirrel planted seedlings. 
+* Mind-your-own-Business CG
+* Petillory-of-the-Wall C A single plant on the wall divding  the upper & lower lawns of the churchyard E of the church. Known for some time from outside 14 Middleton Boulevard, Lenton Lodge.
 # Sorrels
 * Pink Sorrel
 * Least Sorrel
@@ -157,8 +172,6 @@ A quick idea of locations is given by code-letters for the main ones:
 
 # Not categorised
 
-* Red Dead-nettle
-
 * Russell Lupin V Rosette outside #35, May 2021
 * Common Mallow
 * Hollyhock
@@ -174,8 +187,6 @@ A quick idea of locations is given by code-letters for the main ones:
 * Caucasian Lime
 * Large-leaved Lime
 
-* Cherryplum
-* Cherry-laurel
 * Spotted Laurel
 
 * Forsythia
@@ -224,6 +235,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Buddleia
 * Great Willowherb
 * Broad-leaved Willowherb CV
+* Short-fruited Willowherb CG
 * White Bryony C Used to be a plant growing under the conifers at the foot of the vicarage garden. Seems to have gone.
 * Red Valerian CWR
 * Sweet Vernal Grass CV Very common in churchyard lawns. Also present in verges near the church. One of the earliest flowering taller grasses and fairly distinctive. Often responsible for the smell of new-mown hay because it is rich in coumarin.
@@ -232,8 +244,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Hybrid Bluebell CGV
 * Japanese Anemone PG A common plant in gardens, with some spread by seed. A few leaves emerging on the pavement side outside 40
 * Stinking Hellebore CG Behind the church hall. The odd come-by-chance in gardens.
-* Bramble C
-* Teasel C
+* Teasel C Single plant behind church hall. Probably gone now with clearance of this area.
 * Sweet Chestnut VG
 * Petty Spurge
 * Lily-of-the-Valley CG A popular garden plant, persisting for many years in the right conditions. Growing in bed and between wall coping stones in front of church hall.
@@ -246,12 +257,11 @@ A quick idea of locations is given by code-letters for the main ones:
 * Wood Forget-me-not
 * Yellow Rattle VG A single plant in 2019, seedlings in 2020 on the verge outside #42 which didn't survive having things dumped on the verge by workmen. A single plant mown down in 2021.
 * Trailing Bellflower
-* Fox-and-Cubs CR Seen in the lawns of the churchyard if allowed to flower, also seen outside #28.
+* Fox-and-Cubs CRG Seen in the lawns of the churchyard if allowed to flower, also seen outside #28.
 * Mouse-ear Hawkweed
-* Turkey Oak DC
 * Stinking Iris CG 
-* Pedunculate Oak CG Very small sapling in churchyard (Aug 7 2021), mature tree (planted ~ 1966) & saplings in at least one garden.
 * Rhus typhina C (plant near, the unused, garden gate of Vicarage)
+* Box-leaved Honeysuckle VG A small seedling grouwing on the tree root plate outside 36.
 
 # Garden Plants (of natural origin)
 
@@ -260,13 +270,10 @@ Not otherwise known on the public areas of the street. Many of these may be eith
 * Aspen
 * Black Nightshade
 * Enchanter's Nightshade
-* Hazel
-* Pedunculate Oak
 * Red Clover
 * Shining Crane's-bill
 * Druce's Crane's-bill
 * Bugle
-* White Dead-nettle
 * Betony
 * Devil's Bit-scabious
 * Stinking Tutsan
@@ -277,8 +284,10 @@ Not otherwise known on the public areas of the street. Many of these may be eith
 * Honesty
 * Sycamore
 * Common Nettle
-* Autumn Hawkbit
 * False Fox Sedge: side path of #42 in 2021
+* Cut-leaved Bramble
+* Annual Pearlwort
+* Procumbent Yellow Sorrel
 
 # Close-by
 
@@ -291,6 +300,6 @@ Plants which are growing in the wild close by, and which might be candidates to 
 * Garden Star-of-Bethlehem Middleton Boulevard
 * Garden Asparagus Derby Road Banks  
 ![Garden Asparagus](https://inaturalist-open-data.s3.amazonaws.com/photos/127490326/small.jpeg?1620498022)
-* Pellitory-of-the-Wall Outside 14 Middleton Boulevard, Lenton Lodge
+* Pellitory-of-the-Wall 
 * Argentine Vervain planted in beds outside Lenton Lodge but self-seeding beyond them. 
 
