@@ -150,7 +150,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * Hornbeam
 * Hazel CG A small sapling in the churchyard, more mature plants in several gardens. Many squirrel planted seedlings. 
 * Mind-your-own-Business CG
-* Petillory-of-the-Wall C A single plant on the wall divding  the upper & lower lawns of the churchyard E of the church. Known for some time from outside 14 Middleton Boulevard, Lenton Lodge.
+
 # Sorrels
 * Pink Sorrel
 * Least Sorrel
@@ -302,4 +302,5 @@ Plants which are growing in the wild close by, and which might be candidates to 
 ![Garden Asparagus](https://inaturalist-open-data.s3.amazonaws.com/photos/127490326/small.jpeg?1620498022)
 * Pellitory-of-the-Wall 
 * Argentine Vervain planted in beds outside Lenton Lodge but self-seeding beyond them. 
+*  Petillory-of-the-Wall Known for some time from outside 14 Middleton Boulevard, Lenton Lodge.
 
