@@ -59,7 +59,7 @@
 * Carrion Crow
 * Jackdaw
 * Rook
-#Starlings
+# Starlings
 * Starling
 # Sparrows
 * House Sparrow
@@ -67,6 +67,7 @@
 * Chaffinch
 * Goldfinch
 * Greenfinch
+* Bullfinch
 * Siskin
 * Lesser Redpoll
 
