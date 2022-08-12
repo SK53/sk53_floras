@@ -12,6 +12,7 @@ A quick idea of locations is given by code-letters for the main ones:
 * **L**: grounds of Lenton Lodge
 * **D**: Derby Road banks
 * **P**: road gutters, pavement cracks, foot of garden walls etc (basically the annual weed flora)
+* **W**: growing on garden walls.
 
 ## Ferns (5)
 * Bracken G An exception to the rule as this is present only in a garden. A patch of Bracken can be seen close to the gate of Middleton House. This is of interest because Bracken would have probably been a major component of the natural vegetation here (akin to the roughs in Wollaton Park Golf Course)
@@ -71,7 +72,8 @@ A quick idea of locations is given by code-letters for the main ones:
 * Common Stork’s-bill RW A single plant 2020 outside 20. One growing outside 18 on the pavement (2021)
 # Bedstraws
 * Cleavers
-* Hedge Bedstraw
+* Hedge Bedstraw V a single plant outside 28-30
+* Lady's Bedstraw VG decent patch outside 25-27 (2022)
 # Plantains
 * Ribwort Plantain
 * Buck’s-horn Plantain
@@ -126,6 +128,7 @@ A quick idea of locations is given by code-letters for the main ones:
 # Mints
 * Red Dead-nettle CPG
 * White Dead-nettle VG
+* Henbit Dead-nettle W wall of 18, cleistogamous.
 # Speedwells
 * Willow-leaved Hebe
 * Wall Speedwell
@@ -135,6 +138,7 @@ A quick idea of locations is given by code-letters for the main ones:
 # Bellflowers
 * Peach-leaved Bellflower
 * Trailing Bellflower CGW A plant growing on the wall of 52. Elsewhere very common in gardens and outside the Church Hall.
+* Clustered Bellflower. V outside 28, possibly Nettle-leaved Bellflower. Presumably a garden escape.
 # Violets
 * Sweet Violet
 * Early Dog-violet
@@ -181,11 +185,11 @@ A quick idea of locations is given by code-letters for the main ones:
 * Glory-of-the-Snow
 * Boissier’s Glory-of-the-Snow
 
-* Montbretia
+* Montbretia CG
 
-* Common Lime
+* Common Lime C
 * Caucasian Lime
-* Large-leaved Lime
+* Large-leaved Lime C
 
 * Spotted Laurel
 
@@ -194,21 +198,24 @@ A quick idea of locations is given by code-letters for the main ones:
 * Box
 
 * Garden Privet
+* Wild Privet C
 
 * Garden Candytuft V A single plant outside Middleton House around 2005
 
 * Pineappleweed P
 
-* Japanese Cherry
+* Japanese Cherry CG
 
-* Lesser Periwinkle
+* Lesser Periwinkle CG
 
-* Ground Elder
-* Cow-parsley
+* Ground Elder VG
+* Cow-parsley V
+* Wild Carrot V
 
 * Pendulous Sedge
 
 * White Stonecrop R
+* Reflexed Stonecrop R
 
 * Hedge Mustard L
 
@@ -225,17 +232,18 @@ A quick idea of locations is given by code-letters for the main ones:
 * Elder LG
 
 * Ivy
-* Holly
+* Holly CWLG
 
 * Norway Maple CVUG
 
-* Woody Nightshade
+* Woody Nightshade LG
 
-* Green Alkanet
-* Buddleia
+* Green Alkanet CVG
+* Buddleia VG
 * Great Willowherb
 * Broad-leaved Willowherb CV
 * Short-fruited Willowherb CG
+* Large Evening Primrose V
 * White Bryony C Used to be a plant growing under the conifers at the foot of the vicarage garden. Seems to have gone.
 * Red Valerian CWR
 * Sweet Vernal Grass CV Very common in churchyard lawns. Also present in verges near the church. One of the earliest flowering taller grasses and fairly distinctive. Often responsible for the smell of new-mown hay because it is rich in coumarin.
@@ -288,11 +296,12 @@ Not otherwise known on the public areas of the street. Many of these may be eith
 * Cut-leaved Bramble
 * Annual Pearlwort
 * Procumbent Yellow Sorrel
+* Foxglove also on Derby Road Banks
 
 # Close-by
 
 Plants which are growing in the wild close by, and which might be candidates to appear.
-* Foxglove Derby Road Banks
+
 * Lungwort Derby Road Banks
 * Siberian Squill Derby Road Banks
 * Shining Crane's Bill Middleton Boulevard
@@ -300,7 +309,6 @@ Plants which are growing in the wild close by, and which might be candidates to 
 * Garden Star-of-Bethlehem Middleton Boulevard
 * Garden Asparagus Derby Road Banks  
 ![Garden Asparagus](https://inaturalist-open-data.s3.amazonaws.com/photos/127490326/small.jpeg?1620498022)
-* Pellitory-of-the-Wall 
 * Argentine Vervain planted in beds outside Lenton Lodge but self-seeding beyond them. 
-*  Petillory-of-the-Wall Known for some time from outside 14 Middleton Boulevard, Lenton Lodge.
+* Petillory-of-the-Wall Known for some time from outside 14 Middleton Boulevard, Lenton Lodge.
 
